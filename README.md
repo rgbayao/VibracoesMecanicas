@@ -1,6 +1,6 @@
-# VibracoesMecanicas UFMG 2021-1
+# VibracoesMecanicas
 
-Código para resolução de sistema dinâmico.
+Código para resolução do sistema dinâmico dado na lista presente ao repositório.
 
 Incorpora método de vibrações, matrizes de estado, resposta no domínio da frequencia e no domínio do tempo.
 
