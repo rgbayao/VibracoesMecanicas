@@ -1,4 +1,4 @@
-# VibracoesMecanicas
+# Vibracoes Mecanicas
 
 Código para resolução do sistema dinâmico dado na lista presente ao repositório.
 
